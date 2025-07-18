@@ -1,0 +1,5 @@
+gradio
+requests
+youtube_transcript_api 
+pytube
+python-dotenv
